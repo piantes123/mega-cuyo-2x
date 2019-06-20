@@ -1,0 +1,41 @@
+
+megacuyo.pack.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cuyo-1
+  rotate: false
+  xy: 617, 121
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fondo-edificios-1
+  rotate: false
+  xy: 2, 67
+  size: 531, 134
+  orig: 531, 134
+  offset: 0, 0
+  index: -1
+mega-hombre
+  rotate: false
+  xy: 699, 121
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+muro
+  rotate: false
+  xy: 2, 2
+  size: 191, 63
+  orig: 191, 63
+  offset: 0, 0
+  index: -1
+xalo_malo_chico
+  rotate: false
+  xy: 535, 94
+  size: 80, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
